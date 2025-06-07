@@ -1,0 +1,49 @@
+parts {
+  portrait {
+    background {
+      image back.webp
+    }
+    buttons {
+      volume-up {
+        image volume_up.webp
+        x 1450
+        y 352
+      }
+      volume-down {
+        image volume_down.webp
+        x 1450
+        y 518
+      }
+      power {
+        image power.webp
+        x 1450
+        y 777
+      }
+    }
+  }
+  device {
+    display {
+      width 1
+      height 2148
+      x 0
+      y 0
+    }
+  }
+}
+layouts {
+  portrait {
+    width 1477
+    height 2288
+    event EV_SW:0:1
+    part1 {
+      name portrait
+      x 0
+      y 0
+    }
+    part2 {
+      name device
+      x 0
+      y 70
+    }
+  }
+}
