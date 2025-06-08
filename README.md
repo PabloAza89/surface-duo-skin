@@ -40,3 +40,5 @@ hw.sensor.hinge_angles_posture_definitions = 0-4.9-0, 140.8-236-180, 236-360, 4.
 hw.sensor.hinge.areas = 1392-0-0-1800
 skin.path= %WORKDIR%\surface_duo_skin\default
 ```
+
+    <img src="./utils/step5.png" alt="Step5">
