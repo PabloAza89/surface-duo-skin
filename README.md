@@ -10,11 +10,11 @@ Please, follow next steps to install the skin:
 
 1. Copy & paste 'surface_duo_skin' folder into 'artifacts' folder
 
-    <img src="./tutotial-utils/step1.png" alt="Step1">
+    <img src="./utils/step1.png" alt="Step1">
     
 3. Edit run.bat: add "%~6" "%~7"
 
-    <img src="./tutotial-utils/step2.png" alt="Step2">
+    <img src="./utils/step2.png" alt="Step2">
 
 
 
