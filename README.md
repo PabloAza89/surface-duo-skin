@@ -45,27 +45,23 @@ skin.path= %WORKDIR%\surface_duo_skin\default
 
 ## Usage
 
-After former steps, just double-click on Surface Duo 2 API30 Emulator shortcut.. and that's it !
+After former steps, just double-click on Surface Duo API30 Emulator shortcut.. and that's it !
 
     <img src="./utils/step6.png" alt="Step6">
 
 ## Notes
 
-<ul>
-<summary>
-    Next angle range table is an approximation working in concordance with Android Emulator & Device's Folding Feature:
-    
+• Next angle range table is an approximation working in concordance with Android Emulator & device's Folding Feature:
+
 | State | From | To | Default |
 | ----- | ---- | -- | ------- |
-| Closed | 0º | 0º | 0º |
-| Half-Open | 0º | 0º | 0º |
-| Open | 0º | 0º | 0º |
-| Flipped | 0º | 0º | 0º |
+| Closed | 0º | 4.9º | 0º |
+| Half-Open | 4.9º | 140.8º | 90º |
+| Open | 140.8º | 236º | 180º |
+| Flipped | 236º | 360º | 360º |
     
 > Note that Folding Feature it's only retrieving data when device is either on Open position (FLAT) or Half-Open position (HALF_OPENED), and the app it's spanned across displays.. otherwise Folding Feature will retrieve empty data (WindowLayoutInfo{ DisplayFeatures[] })..
-</summary>
-</ul>
 
-Volume up, Volume down & Power buttons are also available
+• Volume up, Volume down & Power touchable buttons in the skin are also available:
 
-Switch the screen its only possible in the 'flipped' position: just turn off the screen, turn in again and double-tap the screen to switch the screen..
+• Screen switch it's only possible in the 'flipped' position: just turn off the screen, turn on again and double-tap the screen to switch it:
