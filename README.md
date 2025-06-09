@@ -60,8 +60,12 @@ After former steps, just double-click on Surface Duo API30 Emulator shortcut.. a
 | Open | 140.8º | 236º | 180º |
 | Flipped | 236º | 360º | 360º |
     
-> Note that Folding Feature it's only retrieving data when device is either on Open position (FLAT) or Half-Open position (HALF_OPENED), and the app it's spanned across displays.. otherwise Folding Feature will retrieve empty data (WindowLayoutInfo{ DisplayFeatures[] })..
+> Note that Folding Feature it's only retrieving data when device is either on Open position (FLAT) or Half-Open position (HALF_OPENED), and the app it's spanned across displays.. otherwise Folding Feature will retrieve empty data (WindowLayoutInfo{ DisplayFeatures[] })
 
 • Volume up, Volume down & Power touchable buttons in the skin are also available:
 
+    <img width="550" src="./utils/gif1.gif" alt="gif1">
+
 • Screen switch it's only possible in the 'flipped' position: just turn off the screen, turn on again and double-tap the screen to switch it:
+
+    <img width="550" src="./utils/gif2.gif" alt="gif2">
