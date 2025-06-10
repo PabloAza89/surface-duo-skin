@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/eda92806-f11f-4fba-abd2-467cfdd21fa3
 
 Please, follow next steps to install the skin:
 
-1. Copy & paste 'surface_duo_skin' folder into 'artifacts' folder
+1. Copy & paste 'surface_duo_skin' folder into 'artifacts' folder. Download it from [here](https://github.com/PabloAza89/surface-duo-skin/archive/refs/heads/main.zip).
 
     <img src="./utils/step1.png" alt="Step1">
     
