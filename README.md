@@ -1,6 +1,6 @@
 # Skin for Surface Duo
 
-Hi everyone! This tutorial will help you to add a skin for the Surface Duo Emulator (1st Gen). This is a simple but effective workaround. First of all you need to download & install the Surface Duo Emulator from Microsoft. In this tutorial is used the SurfaceDuoEmulator_Android11_2022.523.3_windows.exe file (824.1 MB).
+Hi everyone! This tutorial will help you to add a skin for the Surface Duo Emulator (1st Gen). This is a simple but effective workaround. First of all you need to [download & install](https://www.microsoft.com/en-us/download/details.aspx?id=100847) the Surface Duo Emulator from Microsoft. In this tutorial is used the SurfaceDuoEmulator_Android11_2022.523.3_windows.exe file (824.1 MB).
 Then you must go to the installation folder (right-click on desktop shortcut and then 'Open file location')
 
 https://github.com/user-attachments/assets/eda92806-f11f-4fba-abd2-467cfdd21fa3
